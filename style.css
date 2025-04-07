@@ -1,0 +1,83 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+	padding: 2em;
+	background: #f8f8f8;
+	font-size: 16px;
+}
+div {
+	margin-bottom: 2em;
+	padding: 1em;
+	background: white;
+	border-left: 4px solid #ddd;
+	max-width: 900px;
+}
+h1 {
+	margin-bottom: 2rem;
+}
+
+h2 {
+	font-size: 2rem;
+	font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+h3 {
+	font-size: 1.6rem;
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
+p {
+	font-size: 1.2rem;
+	font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
+.open-sans {
+	font-family: 'Open Sans', sans-serif;
+}
+.lato {
+	font-family: 'Lato', sans-serif;
+}
+.montserrat {
+	font-family: 'Montserrat', sans-serif;
+}
+.poppins {
+	font-family: 'Poppins', sans-serif;
+}
+.raleway {
+	font-family: 'Raleway', sans-serif;
+}
+.nunito {
+	font-family: 'Nunito', sans-serif;
+}
+.work-sans {
+	font-family: 'Work Sans', sans-serif;
+}
+.ubuntu {
+	font-family: 'Ubuntu', sans-serif;
+}
+.inter {
+	font-family: 'Inter', sans-serif;
+}
+.merriweather {
+	font-family: 'Merriweather', serif;
+}
+.playfair-display {
+	font-family: 'Playfair Display', serif;
+}
+.lora {
+	font-family: 'Lora', serif;
+}
+.crimson-text {
+	font-family: 'Crimson Text', serif;
+}
+.libre-baskerville {
+	font-family: 'Libre Baskerville', serif;
+}
